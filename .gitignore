@@ -1,0 +1,7 @@
+.DS_Store
+.nuxt
+.npmrc
+.env
+node_modules
+dist
+src/static/*.json
