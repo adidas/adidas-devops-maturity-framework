@@ -8,8 +8,8 @@
 The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support
 the teams on their DevOps transformation journey.
 
-Based in the C.A.L.M.S. defintion of DevOps, the framework defines a set of capabilities and 
-guidelines that when adopted, increases efficientcy (speed, cost...), effectiveness (quality...)
+Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and 
+guidelines that when adopted, increases efficiency (speed, cost...), effectiveness (quality...)
 and happiness of the team.
 
 
