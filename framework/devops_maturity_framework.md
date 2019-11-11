@@ -41,7 +41,7 @@ Integrate application data into Big Data Platform | No application data transfer
 
 CAPABILITY | CRAWL | WALK | RUN  
 ---------- | ----- | ---- | ---
-Monitor application and infrastructure performance | No monitoring in place | Application or infrastructure performance monitored, but no alerting in place |  place	Application and infrastructure performance monitored and alerting in place for relevant KPI's
+Monitor application and infrastructure performance | No monitoring in place | Application or infrastructure performance monitored, but no alerting in place | Application and infrastructure performance monitored and alerting in place for relevant KPI's
 Monitor software delivery performance | No metrics monitored | Selected metrics monitored | All key metrics monitored
 Limit Work in Progress | More than 10 features in progress | Less than 10 features in progress | Not more than 5 features in progress
 
