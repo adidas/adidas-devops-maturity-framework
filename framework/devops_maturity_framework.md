@@ -13,7 +13,7 @@ be to set quarterly targets to be able to define meaningful actions.
 ----------
 CAPABILITY | CRAWL | WALK | RUN  
 ---------- | ----- | ---- | ---
-Use version control for all production artifacts | No version control | Source code or other assets under version control | All production artifacts under version control
+Use version control for all production artifacts | No version control | Source code or other assets under version control | Source code or other assets under version control and all production artifacts versioned and stored in the corresponding artifact repository
 Automate deployment processes | Manual deployment process | Partially automated deployment process | Fully automated deployment process
 Implement test automation | Manual test script execution | Partially automated testing (unit or regression or performance tests) | Fully automated testing (unit and regression and performance tests)
 Implement infrastructure automation | Manual deployment process | Partially automated deployment process. Provisioning is done by the teams | Fully automated deployment (infrastructure-as-code). Platform Engineering provides base images
