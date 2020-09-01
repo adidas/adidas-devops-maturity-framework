@@ -38,7 +38,7 @@ Have a lightweight change approval process | Change approval needed from multipl
 Integrate application data into Big Data Platform | No application data transferred at all | Partial business-relevant application data transferred to Big Data Platform or provided via API | All business-relevant application data transferred to Big Data Platform
 SRE role and activities | No clear SRE role and responsibilty from Product team perspective | SRE tasks are defined and agreed from Execution (Operations, Automation, Hotfix) perspective | SRE tasks are defined for  Execution and Governance areas and agreed with all stakeholders (Business, Development)
 Postmortems | No causal analysis done for all outages | All outage RCA conducted and tied to change / release | Blameless Postmortems are conducted for all outages
-Resiliency / Chaos Engineering | No resiliency tests are conducted | Define environment dependencies (failure points) and execute resilency tests to ensure no customer impact | Regular chaos (resiliency) exercise scheduled basis stead state / functionality change
+Resiliency / Chaos Engineering | No resiliency tests are conducted | Define environment dependencies (failure points) and execute resiliency tests to ensure no customer impact | Regular chaos (resiliency) exercise scheduled basis stead state / functionality change
 
 #### MANAGEMENT & MONITORING 
 
