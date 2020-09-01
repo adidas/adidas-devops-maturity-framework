@@ -24,7 +24,7 @@ Shift left on security | No security aspects considered during development cycle
 Build for resilience | No resilience build into system | Design infrastructure and code for failure | Design infrastructure and code for failure with fully automated error recovery (self-healing)
 Enable team for troubleshooting | No control over development lifecycle (e.g. access to PROD) | Team has full control over development lifecycle (e.g. access to PROD), but no access to logs and tools relevant for troubleshooting | Team has full control over development lifecycle (e.g. access to PROD) and full access to logs and tools for troubleshooting 
 Feature handling | No feature branches for controlled releases | Feature branches are implemented for controlled  releases of distinct features | Feature branching and toggles are implemented to facilitate development, roll-out and roll-back (if needed) of usable features to production
-Releases | Releases to all users and all sites / geographies in one go | Releases to subset of users or  sites or geographies | Gradual releases to subset of users in specific sites / geographies thereby limiting the blash raduis for potential issues
+Releases | Releases to all users and all sites / geographies in one go | Releases to subset of users or  sites or geographies | Gradual releases to subset of users in specific sites / geographies thereby limiting the blast raduis for potential issues
 
 #### PRODUCT & PROCESSES 
 
